@@ -40,5 +40,5 @@ My hobbies:
 <details>
 <summary>Click me to see something important!</summary>
 <br>
-You are are importany, you matter ✨
+You are are important, you matter ✨
 </details>
