@@ -1,4 +1,4 @@
-<img width="70%" src="https://github.com/mxarc/mxarc/blob/master/assets/welcome.jpg"/>
+<img width="70%" src="https://github.com/mxarc/mxarc/blob/master/assets/welcome.png"/>
 
 ### Hey ya'll 👋
 My name is Alfonso Reyes and I'm a human eager to learn and share knowledge 💡🧠. I'm one of the co-founders at [DevSpace](https://devspace.mx) which is a Student developer community. We encourage people to break outside their confort zone and learn about new things related to science and tech 🧪💻. We also organize meetings and workshops that help people adquire new skills that matter in today's world like soft-skills. 📢
