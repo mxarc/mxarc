@@ -10,7 +10,7 @@
 
 ✨ Student community Lead @devspacemx 👨🏽‍💻
 
-🥞 I use daily: `.ts`, `.dart`, `.js`, `.json`, `.html`, `.scss`, `.py`, `.sql`
+🥞 I use: `.ts`, `.dart`, `.js`, `.json`, `.html`, `.scss`, `.py`, `.sql`
 
 🔧 Maker
 
