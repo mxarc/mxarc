@@ -3,7 +3,7 @@
 
 ## About me
 <p>
-  <img width="20%" alt="sunset gif" align="left" src="https://github.com/mxarc/mxarc/blob/master/assets/sun.gif"/>
+  <img width="25%" alt="sunset gif" align="left" src="https://github.com/mxarc/mxarc/blob/master/assets/sun.gif"/>
 </p>
 
 
